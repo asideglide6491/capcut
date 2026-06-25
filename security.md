@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![下载 CapCut](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/capcut-full-access)
+[![下载 CapCut](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/capcut-full-access)
 
 </div>
 
@@ -111,7 +111,7 @@
 6. **🎉 会员功能解锁** — 所有功能自动生效
 7. **🎬 开始剪辑** — 创作专业视频
 
-[![下载 CapCut](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/capcut-full-access)
+[![下载 CapCut](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/capcut-full-access)
 
 ### 去除水印
 
@@ -194,7 +194,7 @@
 
 <div align="center">
 
-[![下载 CapCut](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/capcut-full-access)
+[![下载 CapCut](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/capcut-full-access)
 
 **版本 4.6.1** — 专业视频剪辑。永久免费。
 
